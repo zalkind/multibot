@@ -1,0 +1,39 @@
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Garanti Verilmeyen Programlar Ýçin Uluslararasý Lisans Sözleþmesi (Z125-5589-05) geçerli olur.
+
+Program Adý: IBM SDK for Node.js(tm) V4
+Program Numarasý: AIMNDJSV400
+
+Ayrýca Lisanslanan Kod
+
+Bu paragrafta yer alan hükümler, bu lisansýn tabi olduðu yasalar kapsamýnda geçersiz sayýldýklarý veya uygulanamaz olarak deðerlendirildikleri sürece geçerli olmazlar. Aþaðýda listelenen bileþenlerden her biri "Ayrýca Lisanslanan Kod" olarak deðerlendirilir. Ayrýca Lisanslanan Kod, Lisans Alan Tarafa, IBM tarafýndan bu Programla birlikte gönderilen NON_IBM_LICENSE dosyasýnda/dosyalarýnda belirtilen geçerli üçüncü kiþi lisans sözleþmesi/sözleþmeleri koþullarý kapsamýnda lisanslanýr. Bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer bir sözleþmede yer alan koþullar dikkate alýnmaksýzýn, Ayrýca Lisanslanan Kodlarýn tümünün kullanýmý, aþaðýda aksi belirtilmedikçe, bu tür üçüncü kiþi lisans sözleþmelerinin koþullarýna tabidir.
+
+Program için gerçekleþtirilecek güncellemeler veya düzeltmeler, ek bir Ayrýca Lisanslanan Kod içerebilir. Bu tür bir ek Ayrýca Lisanslanan Kod ve bununla ilgili lisanslar Program güncellemesi veya düzeltmesiyle birlikte gönderilen diðer bir NON_IBM_LICENSE dosyasýnda yer alýr. Lisans Alan Taraf, NON_IBM_LICENSE dosyasýnda/dosyalarýnda bulunan lisans sözleþmelerini okuduðunu ve kabul ettiðini belirtmiþ sayýlýr. Lisans Alan Taraf, bu tür üçüncü kiþi lisans sözleþmelerinin koþullarýný kabul etmiyorsa, Ayrýca Lisanslanan Kodu kullanamaz.
+
+Lisans Alan Taraf, Uluslararasý Program Lisans Sözleþmesi ("UPLS") veya Garanti Verilmeyen Programlar Ýçin Uluslararasý Program Lisans Sözleþmesi (International Program License Agreement for Non Warranted Programs - "ILAN") kapsamýnda edinilen Programlar için, Programýn ilk lisans alan tarafý ise ve üçüncü kiþi lisans sözleþmelerinde belirtilen koþullarý kabul etmiyorsa, Uluslararasý Program Lisans Sözleþmesi ("UPLS") veya Garanti Verilmeyen Programlar Ýçin Uluslararasý Program Lisans Sözleþmesi (International Program License Agreement for Non Warranted Programs - "ILAN") adlý sözleþmelerin "Para Ýadesi Garantisi" bölümünün koþullarýna uygun olarak ve bu bölümde belirtilen süreler içinde Programý iade edebilir.
+
+Not: Üçüncü kiþi lisans sözleþmesinde, bu Sözleþmede veya Lisans Alan Tarafýn IBM ile yapmýþ olabileceði diðer herhangi bir sözleþmede yer alan koþullar dikkate alýnmaksýzýn:
+(a) IBM, bu Ayrýca Lisanslanan Kodu Lisans Alan Tarafa HÝÇBÝR GARANTÝ VERMEKSÝZÝN saðlar;
+(b) IBM, AYRICA LÝSANSLANAN KODA ÝLÝÞKÝN OLARAK MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEYE DAÝR GARANTÝLER ÝLE TÝCARÝLÝK VE BELÝRLÝ BÝR AMACA UYGUNLUK ÝÇÝN ZIMNÝ GARANTÝ VE KOÞULLAR DA DAHÝL OLMAK, ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VE ZIMNÝ HÝÇBÝR GARANTÝ VERMEZ VE HÝÇBÝR KOÞUL ÖNE SÜRMEZ;
+(c) IBM, Ayrýca Lisanslanan Kod ile ilgili veya Ayrýca Lisanslanan Koddan kaynaklanan herhangi bir iddiada Lisans Alan Tarafa karþý yükümlü deðildir ve Lisans Alan Tarafý bu iddialara karþý tazmin etmek, savunmak ve Lisans Alan Tarafýn zarara uðramamasýný saðlamakla sorumlu olmayacaktýr; ve
+(d) IBM, Ayrýca Lisanslanan Kod ile ilgili olarak veri kaybý, tasarruf kaybý ve kar kaybý da dahil, ancak bunlarla sýnýrlý olmaksýzýn doðrudan, dolaylý, arýzi, özel, örnek niteliðinde, cezai veya sonuçta ortaya çýkan herhangi bir zarardan sorumlu deðildir.
+
+Bu istisnalar dikkate alýnmaksýzýn, Almanya ve Avusturya'da Ayrýca Lisanslanan Kod ile ilgili olarak IBM'in garanti ve yükümlülüðü yalnýzca, IBM lisans sözleþmelerinde Almanya ve Avusturya için geçerli olan ilgili koþullara tabidir.
+
+Not: IBM, bazý Ayrýca Lisanslanan Kodlara iliþkin sýnýrlý destek saðlayabilir. Bu tür bir destek saðlandýðýnda, bu tür bir desteðe iliþkin ayrýntýlar ve tüm ek koþullar Lisans Bilgileri belgesinde belirtilecektir.
+
+Ayrýca Lisanslanan Kod aþaðýdadýr:
+npm\node_modules\validate-npm-package-license\node_modules\spdx-expression-parse\node_modules\spdx-exceptions
+x86\Microsoft.VC120.CRT\msvcp120.dll
+x86\Microsoft.VC120.CRT\msvcr120.dll
+x86\Microsoft.VC120.CRT\vccorlib120.dll
+x64\Microsoft.VC120.CRT\msvcp120.dll
+x64\Microsoft.VC120.CRT\msvcr120.dll
+x64\Microsoft.VC120.CRT\vccorlib120.dll
+
+L/N:  L-PIVN-AFJEU8
+D/N:  L-PIVN-AFJEU8
+P/N:  L-PIVN-AFJEU8
+
+

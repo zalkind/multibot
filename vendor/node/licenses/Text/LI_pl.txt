@@ -1,0 +1,39 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poniøej sπ licencjonowane na podstawie przedstawionych poniøej warunkÛw Informacji licencyjnych, ktÛre stanowiπ uzupe≥nienie warunkÛw licencji na Program uzgodnionych uprzednio miÍdzy Klientem a IBM. Jeúli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie majπ warunki licencji MiÍdzynarodowa Umowa Licencyjna na Programy nieobjÍte Gwarancjπ (Z125-5589-05).
+
+Nazwa Programu: IBM SDK for Node.js(tm) V4
+Numer Programu: AIMNDJSV400
+
+Kod Licencjonowany Oddzielnie
+
+Postanowienia niniejszego akapitu nie majπ zastosowania w zakresie, w jakim sπ niewaøne lub niewykonalne na mocy prawa, ktÛremu podlega niniejsza licencja. Kaødy z wymienionych poniøej komponentÛw uznawany jest za "Kod Licencjonowany Oddzielnie". Kod Licencjonowany Oddzielnie IBM jest licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umÛw licencyjnych osÛb trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do≥πczonym (do≥πczonych) do Programu. Bez wzglÍdu na jakiekolwiek inne warunki Umowy lub jakiejkolwiek innej umowy z IBM, uøywanie ca≥ego Kodu Licencjonowanego Oddzielnie podlega warunkom takiej umowy licencyjnej osoby trzeciej (takich umÛw licencyjnych osÛb trzecich), chyba øe poniøsze warunki stanowiπ inaczej.
+
+Przysz≥e aktualizacje lub poprawki do Programu mogπ zawieraÊ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwiπzane z nimi licencje sπ wymienione w kolejnym pliku NON_IBM_LICENSE do≥πczonym do aktualizacji lub poprawki do Programu. Licencjobiorca potwierdza, øe zapozna≥ siÍ z treúciπ umÛw licencyjnych zawartych w pliku lub plikach NON_IBM_LICENSE i wyrazi≥ na nie zgodÍ. Jeúli Licencjobiorca nie wyrazi zgody na warunki tych umÛw licencyjnych osÛb trzecich, wÛwczas nie bÍdzie mÛg≥ uøywaÊ Kodu Licencjonowanego Oddzielnie.
+
+W przypadku ProgramÛw nabytych na warunkach MiÍdzynarodowej Umowy Licencyjnej na Program (International Program License Agreement, zwanej dalej "IPLA") lub MiÍdzynarodowej Umowy Licencyjnej na Programy nieobjÍte Gwarancjπ (International Program License Agreement for Non Warranted Program, zwanej dalej "ILAN"), jeúli Licencjobiorca nie wyrazi zgody na umowy licencyjne osÛb trzecich, wÛwczas moøe zwrÛciÊ Program zgodnie z warunkami paragrafu "Gwarancja zwrotu pieniÍdzy" umowy z IBM (IPLA lub ILAN), z uwzglÍdnieniem okreúlonych tam ram czasowych.
+
+Uwaga: Bez wzglÍdu na jakiekolwiek warunki umÛw licencyjnych z osobami trzecimi, niniejszej Umowy czy teø jakiejkolwiek innej umowy, jakπ Licencjobiorca mÛg≥ zawrzeÊ z IBM:
+(a) IBM dostarcza Licencjobiorcy niniejszy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (W TYM TAKØE R KOJMI);
+(b) IBM NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAKØE R KOJMI) I NIE USTALA JAKICHKOLWIEK WARUNK”W, WYRAèNYCH CZY DOMNIEMANYCH, A W SZCZEG”LNOåCI NIE UDZIELA GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH LUB NIEINGEROWANIA W NIE, DOMNIEMANYCH GWARANCJI I WARUNK”W PRZYDATNOåCI HANDLOWEJ ANI TEØ PRZYDATNOåCI DO OKREåLONEGO CELU W ODNIESIENIU DO KOMPONENT”W KODU LICENCJONOWANEGO ODDZIELNIE;
+(c) IBM nie ponosi wobec Licencjobiorcy odpowiedzialnoúci za jakiekolwiek roszczenia wynikajπce z uøywania Kodu Licencjonowanego Oddzielnie lub z nim zwiπzane ani teø nie bÍdzie zabezpieczaÊ ani broniÊ Licencjobiorcy przed takimi roszczeniami oraz;
+(d) IBM nie ponosi odpowiedzialnoúci za jakiekolwiek szkody bezpoúrednie, poúrednie, uboczne, szczegÛlne, szkody, ktÛrych nie moøna by≥o przewidzieÊ przy zawieraniu umowy oraz szkody zwiπzane z naruszeniem dÛbr osobistych, w tym w szczegÛlnoúci utratÍ danych czy spodziewanych korzyúci, w odniesieniu do Kodu Licencjonowanego Oddzielnie.
+
+Bez wzglÍdu na powyøsze zastrzeøenia w Niemczech i w Austrii gwarancja i odpowiedzialnoúÊ IBM w odniesieniu do Kodu Licencjonowanego Oddzielnie podlega jedynie odpowiednim warunkom umÛw licencyjnych IBM dla Niemiec i Austrii.
+
+Uwaga: IBM moøe úwiadczyÊ us≥ugi wsparcia w ograniczonym zakresie dla okreúlonych komponentÛw Kodu Licencjonowanego Oddzielnie. Jeúli wsparcie takie bÍdzie dostÍpne, szczegÛ≥owe informacje o nim oraz dodatkowe dotyczπce go warunki zostanπ przedstawione w dokumencie "Informacje licencyjne".
+
+Poniøej wymieniono elementy Kodu Licencjonowanego Oddzielnie:
+npm\node_modules\validate-npm-package-license\node_modules\spdx-expression-parse\node_modules\spdx-exceptions
+x86\Microsoft.VC120.CRT\msvcp120.dll
+x86\Microsoft.VC120.CRT\msvcr120.dll
+x86\Microsoft.VC120.CRT\vccorlib120.dll
+x64\Microsoft.VC120.CRT\msvcp120.dll
+x64\Microsoft.VC120.CRT\msvcr120.dll
+x64\Microsoft.VC120.CRT\vccorlib120.dll
+
+L/N:  L-PIVN-AFJEU8
+D/N:  L-PIVN-AFJEU8
+P/N:  L-PIVN-AFJEU8
+
+

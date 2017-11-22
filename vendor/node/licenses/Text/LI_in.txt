@@ -1,0 +1,39 @@
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Program Tanpa Garansi (Z125-5589-05) akan berlaku.
+
+Nama Program: IBM SDK for Node.js(tm) V4
+Nomor Program: AIMNDJSV400
+
+Kode Berlisensi Terpisah
+
+Ketentuan-ketentuan ayat ini tidak berlaku sepanjang ketentuan-ketentuan tersebut dianggap tidak sah atau tidak dapat diberlakukan berdasarkan undang-undang yang mengatur lisensi ini. Masing-masing komponen yang tercantum di bawah ini dianggap sebagai "Kode Berlisensi Terpisah". Kode Berlisensi Terpisah IBM dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian lisensi pihak ketiga yang berlaku yang tercantum dalam file(-file) NON_LISENSI_IBM yang menyertai Program. Meskipun terdapat syarat-syarat dalam Perjanjian, atau setiap perjanjian lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, syarat-syarat perjanjian lisensi pihak ketiga tersebut mengatur penggunaan Pemegang Lisensi atas semua Kode Berlisensi Terpisah kecuali apabila disebutkan lain di bawah ini.
+
+Pembaruan-pembaruan atau perbaikan-perbaikan Program di masa yang akan datang dapat memuat Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi-lisensi terkait tercantum dalam file NON_LISENSI_IBM lainnya yang menyertai pembaruan atau perbaikan Program. Pemegang Lisensi mengakui bahwa Pemegang Lisensi telah membaca dan menyetujui perjanjian-perjanjian lisensi yang terdapat dalam file(-file) NON_LISENSI_IBM. Apabila Pemegang Lisensi tidak menyetujui syarat-syarat perjanjian lisensi pihak ketiga ini, Pemegang Lisensi tidak dapat menggunakan Kode Berlisensi Terpisah.
+
+Untuk Program-program yang diperoleh berdasarkan Perjanjian Lisensi Program Internasional (International Program License Agreement) ("IPLA") atau Perjanjian Lisensi Program Internasional untuk Program Tanpa Garansi (International Program License Agreement for Non Warranted Program) ("ILAN") dan Pemegang Lisensi adalah pemegang lisensi asli Program, apabila Pemegang Lisensi tidak setuju dengan perjanjian-perjanjian lisensi pihak ketiga, Pemegang Lisensi dapat mengembalikan Program sesuai dengan syarat-syarat, dan dalam batas-batas waktu yang ditetapkan yang dinyatakan dalam, pasal "Jaminan Uang Kembali" Perjanjian IPLA atau ILAN IBM.
+
+Catatan: Meskipun terdapat syarat dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA GARANSI APA PUN;
+(b) IBM MELEPASKAN SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT TERMASUK, TETAPI TIDAK TERBATAS PADA, GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU, TERKAIT DENGAN KODE BERLISENSI TERPISAH;
+(c) IBM tidak bertanggung jawab kepada Pemegang Lisensi, dan tidak akan membela, memberikan ganti rugi kepada, atau membebaskan Pemegang Lisensi atas setiap tuntutan yang timbul dari atau terkait dengan Kode Berlisensi Terpisah; dan
+(d) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, tambahan, khusus, biasa, hukuman atau sebab-akibat termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba yang terkait dengan Kode Berlisensi Terpisah.
+
+Meskipun terdapat pengecualian-pengecualian ini, di Jerman dan Austria, jaminan dan kewajiban IBM untuk Kode Berlisensi Terpisah diatur hanya oleh syarat masing-masing yang berlaku untuk Jerman dan Austria dalam perjanjian-perjanjian lisensi IBM.
+
+Catatan: IBM dapat memberikan dukungan yang terbatas untuk beberapa Kode Berlisensi Terpisah. Apabila dukungan tersebut tersedia, rincian dan setiap syarat tambahan yang terkait dengan dukungan tersebut akan dicantumkan dalam dokumen Informasi Lisensi.
+
+Berikut ini adalah Kode Berlisensi Terpisah:
+npm\node_modules\validate-npm-package-license\node_modules\spdx-expression-parse\node_modules\spdx-exceptions
+x86\Microsoft.VC120.CRT\msvcp120.dll
+x86\Microsoft.VC120.CRT\msvcr120.dll
+x86\Microsoft.VC120.CRT\vccorlib120.dll
+x64\Microsoft.VC120.CRT\msvcp120.dll
+x64\Microsoft.VC120.CRT\msvcr120.dll
+x64\Microsoft.VC120.CRT\vccorlib120.dll
+
+L/N:  L-PIVN-AFJEU8
+D/N:  L-PIVN-AFJEU8
+P/N:  L-PIVN-AFJEU8
+
+

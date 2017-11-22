@@ -1,0 +1,39 @@
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommt Internationale Nutzungsbedingungen für Programme ohne Gewährleistung (Z125-5589-05) zur Anwendung.
+
+Programmname: IBM SDK for Node.js(tm) V4
+Programmnummer: AIMNDJSV400
+
+Separat lizenzierter Code
+
+Die Bedingungen dieses Abschnitts kommen nicht zur Anwendung, wenn sie im Rahmen des geltenden Rechts, dem diese Lizenz unterliegt, als ungültig oder undurchführbar erachtet werden. Jede Komponente in der folgenden Liste wird als "separat lizenzierter Code" eingestuft. IBM stellt dem Lizenznehmer diesen Code unter Lizenz auf Basis der Bedingungen der geltenden Lizenzvereinbarungen der Dritthersteller in den NON_IBM_LICENSE-Dateien zur Verfügung, die dem Programm beigepackt sind. Ungeachtet der Bedingungen in der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM unterliegt die Nutzung des gesamten separat lizenzierten Codes durch den Lizenznehmer den Bedingungen der Lizenzvereinbarungen der Dritthersteller, sofern nachfolgend nichts anderes angegeben ist.
+
+Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen ebenfalls in einer NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist. Der Lizenznehmer bestätigt, dass er die Lizenzvereinbarungen in den NON_IBM_LICENSE-Dateien gelesen und akzeptiert hat. Wenn der Lizenznehmer die Bedingungen dieser Lizenzvereinbarungen der Dritthersteller nicht akzeptiert, darf er den separat lizenzierten Code nicht nutzen.
+
+Für ein Programm, das der Lizenznehmer unter den Internationalen Nutzungsbedingungen für Programmpakete (IPLA) oder den Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung (ILAN) bezogen hat, gilt Folgendes: Wenn der Lizenznehmer der ursprüngliche Lizenznehmer des Programms ist und die Lizenzvereinbarungen der Dritthersteller nicht akzeptiert, kann er in Übereinstimmung mit den Bedingungen im Abschnitt "Geld-zurück-Garantie" in den beiden oben genannten IBM Vereinbarungen und unter Einhaltung der dort angegebenen Frist das Programm zurückgeben.
+
+Hinweis: Ungeachtet der Bedingungen in der Lizenzvereinbarung des Drittherstellers, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung;
+(b) IBM übernimmt keine Gewährleistung (ausdrücklich oder stillschweigend) für den separat lizenzierten Code, einschließlich, aber nicht beschränkt auf die Gewährleistung für Rechtsmängel, für die Freiheit von Rechten Dritter, für das Recht auf Nichtbeeinträchtigung, für die Handelsüblichkeit und für die Verwendungsfähigkeit für einen bestimmten Zweck;
+(c) IBM ist dem Lizenznehmer gegenüber nicht haftbar und übernimmt keine Verpflichtung, ihn für irgendwelche Schäden hinsichtlich des separat lizenzierten Codes schadlos zu halten, zu entschädigen oder Ansprüche abzuwehren; und
+(d) IBM haftet nicht für unmittelbare, mittelbare oder sonstige Folgeschäden, einschließlich, aber nicht beschränkt auf Datenverlust, entgangene Gewinne und entgangene Einsparungen hinsichtlich des separat lizenzierten Codes.
+
+Ungeachtet der genannten Ausschlüsse unterliegen die Gewährleistung und Haftung von IBM für den separat lizenzierten Code in Deutschland und Österreich ausschließlich den Bedingungen, die in den IBM Lizenzvereinbarungen für Deutschland und Österreich angegeben sind.
+
+Hinweis: IBM kann für Teile des separat lizenzierten Codes unter Umständen eingeschränkte Unterstützung bereitstellen. Wenn Unterstützung angeboten wird, sind Einzelheiten und zusätzlich geltende Bedingungen in der Lizenzinformation (LI) zu finden.
+
+Diese Liste enthält den separat lizenzierten Code:
+npm\node_modules\validate-npm-package-license\node_modules\spdx-expression-parse\node_modules\spdx-exceptions
+x86\Microsoft.VC120.CRT\msvcp120.dll
+x86\Microsoft.VC120.CRT\msvcr120.dll
+x86\Microsoft.VC120.CRT\vccorlib120.dll
+x64\Microsoft.VC120.CRT\msvcp120.dll
+x64\Microsoft.VC120.CRT\msvcr120.dll
+x64\Microsoft.VC120.CRT\vccorlib120.dll
+
+L/N:  L-PIVN-AFJEU8
+D/N:  L-PIVN-AFJEU8
+P/N:  L-PIVN-AFJEU8
+
+

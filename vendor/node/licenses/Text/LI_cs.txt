@@ -1,0 +1,39 @@
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy bez záruky (Z125-5589-05).
+
+Název Programu: IBM SDK for Node.js(tm) V4
+Èíslo Programu: AIMNDJSV400
+
+Samostatnì licencovaný kód
+
+Podmínky tohoto odstavce se neaplikují v míøe, v níž jsou považována za neplatná nebo nevymahatelná na základì právních pøedpisù, jimiž se øídí tato licence. Každá z komponent uvedených níže je považována za "Samostatnì licencovaný kód". Licence na Samostatnì licencovaný kód IBM je udìlována Držiteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích stran, jak je uvedeno v souboru(ech) NON_IBM_LICENSE pøipojeném(ých) k Programu. Nestanoví-li tato Smlouva nebo jiná licenèní smlouva, kterou mùže Držitel licence uzavøít s IBM, jinak, øídí se jeho užívání veškerého Samostatnì licencovaného kódu podmínkami takové(vých) licenèní(ch) smlouvy (smluv) tøetích stran, pokud není níže uvedeno jinak.
+
+Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v jiném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. Držitel licence potvrzuje, že pøeèetl podmínky licenèní smlouvy obsažené v souboru(ech) NON_IBM_LICENSE a že s nimi souhlasí. Jestliže Držitel licence nesouhlasí s podmínkami tìchto licenèních smluv tøetích stran, nesmí užívat Samostatnì licencovaný kód.
+
+Pro Programy zakoupené na základì Mezinárodní licenèní smlouvy na programy ("IPLA") nebo Mezinárodní licenèní smlouvy pro programy bez záruky ("ILAN") a za pøedpokladu, že Držitel licence je pùvodním držitelem licence na Program, platí, že jestliže Držitel licence nesouhlasí s podmínkami licenèních smluv tøetích stran, mùže vrátit Program v souladu s podmínkami (a v rámci stanoveného èasového období) uvedenými v oddíle "Záruka vrácení penìz" ve smlouvì IBM IPLA nebo ILAN.
+
+Poznámka: Bez ohledu na jakékoliv podmínky licenèní smlouvy tøetí strany, této Smlouvy s IBM nebo jakékoliv jiné smlouvy, kterou mùžete mít s IBM uzavøenou:
+(a) IBM poskytuje Držiteli licence tento Samostatnì licencovaný kód BEZ ZÁRUK JAKÉHOKOLIV DRUHU;
+(b) IBM VYLUÈUJE VEŠKERÉ ZÁRUKY A PODMÍNKY VÝSLOVNÌ VYJÁDØENÉ A VYPLÝVAJÍCÍ Z OKOLNOSTÍ VÈETNÌ - A TO ZEJMÉNA - ZÁRUKY VLASTNICKÉHO NÁROKU, ZÁRUKY NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URÈITÝ ÚÈEL, POKUD JDE O SAMOSTATNÌ LICENCOVANÝ KÓD;
+(c) IBM nenese vùèi Držiteli licence odpovìdnost, ani jej nebude hájit a neodškodní jej v souvislosti s jakýmikoli nároky na náhradu škody vztahujícími se k Samostatnì licencovanému kódu; a
+(d) IBM nenese odpovìdnost za žádné pøímé, nepøímé, nahodilé, zvláštní, exemplární škody ani za sankèní náhrady škody nebo za následné škody vèetnì - a to zejména - ztráty dat, ztráty úspor, ušlého zisku, v souvislosti se Samostatnì licencovaným kódem.
+
+Bez ohledu na tato vylouèení se záruka a odpovìdnost IBM za Samostatnì licencovaný kód øídí na území Nìmecka a Rakouska pouze pøíslušnými podmínkami platnými pro Nìmecko a Rakousko v licenèních smlouvách IBM.
+
+Poznámka: IBM mùže poskytnout omezenou podporu pro urèitý Samostatnì licencovaný kód. Je-li taková podpora dostupná, budou podrobné informace a dodateèné podmínky vztahující se k takové podpoøe stanoveny v dokumentu Licenèní informace.
+
+Níže je uveden Samostatnì licencovaný kód:
+npm\node_modules\validate-npm-package-license\node_modules\spdx-expression-parse\node_modules\spdx-exceptions
+x86\Microsoft.VC120.CRT\msvcp120.dll
+x86\Microsoft.VC120.CRT\msvcr120.dll
+x86\Microsoft.VC120.CRT\vccorlib120.dll
+x64\Microsoft.VC120.CRT\msvcp120.dll
+x64\Microsoft.VC120.CRT\msvcr120.dll
+x64\Microsoft.VC120.CRT\vccorlib120.dll
+
+L/N:  L-PIVN-AFJEU8
+D/N:  L-PIVN-AFJEU8
+P/N:  L-PIVN-AFJEU8
+
+

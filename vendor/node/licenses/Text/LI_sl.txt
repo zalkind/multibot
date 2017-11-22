@@ -1,0 +1,39 @@
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno soglašata. Èe naroènik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za programe brez garancije (Z125-5589-05).
+
+Ime programa: IBM SDK for Node.js(tm) V4
+Številka programa: AIMNDJSV400
+
+Loèeno licencirana koda
+
+Doloèbe tega odstavka ne veljajo do mere, ko so po zakonodaji, ki ureja to licenco, ocenjene kot niène ali takšne, da jih ni mogoèe uveljaviti. Vse komponente, navedene spodaj, so obravnavane kot "loèeno licencirana koda". IBM-ova loèeno licencirana koda je podeljena imetniku licence v skladu s pogoji ustreznih licenènih pogodb drugega proizvajalca, ki so razloženi v datotekah NON_IBM_LICENSE, dodanih programu. Ne glede na pogoje iz te pogodbe ali katerekoli druge pogodbe, ki jo lahko sklene imetnik licence z IBM-om, veljajo za uporabo vseh loèeno licenciranih kod pogoji takšnih licenènih pogodb z drugim proizvajalcem, razen èe ni spodaj doloèeno drugaèe.
+
+Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Takšna dodatna loèeno licencirana koda in z njo povezane licence so navedene v drugi datoteki NON_IBM_LICENSE, ki jo dobite s posodobitvijo ali popravkom programa. Imetnik licence potrjuje, da je prebral licenène pogodbe, vsebovane v datotekah NON_IBM_LICENSE, in da z njimi soglaša. Èe imetnik licence ne soglaša z doloèbami iz teh licenènih pogodb drugega proizvajalca, ne sme uporabljati loèeno licencirane kode.
+
+Za programe, pridobljene v skladu z mednarodno licenèno pogodbo za program ("IPLA") ali mednarodno licenèno pogodbo za program brez garancije ("ILAN"), ko je imetnik licence izvirni imetnik licence programa, ki ne soglaša z licenènimi pogodbami drugega proizvajalca, lahko v doloèenem èasovnem okviru, ki je doloèen v razdelku "Garancija z vraèilom denarja" IBM-ove pogodbe IPLA ali ILAN, vrne program v skladu s tema pogodbama.
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega proizvajalca, tej pogodbi ali katerikoli drugi pogodbi, ki jo lahko sklene imetnik licence z IBM-om, velja naslednje:
+(a) IBM nudi loèeno licencirano kodo imetniku licence BREZ VSAKRŠNIH GARANCIJ;
+(b) IBM ZAVRAÈA KATEREKOLI IN VSE IZRECNE IN NAKAZANE GARANCIJE IN POGOJE, KAR VKLJUÈUJE TUDI (VENDAR NI OMEJENO NA) GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA TRŽNOST IN PRIMERNOST ZA DOLOÈEN NAMEN Z OZIROM NA LOÈENO LICENCIRANO KODO;
+(c) IBM ni odgovoren imetniku licence in ga bo branil, zavaroval ali mu povrnil škodo v zvezi s kakršnimikoli zahtevki, vloženimi v povezavi z loèeno licencirano kodo; in
+(d) IBM ni odgovoren za nobeno posredno, neposredno, nakljuèno, posebno, kazensko, dodatno ali posledièno škodo, kar vkljuèuje tudi (vendar ni omejeno na) izgubljene podatke, izgubljene prihranke in izgubljene dobièke z ozirom za loèeno licencirano kodo.
+
+Ne glede na te izjeme veljajo v Nemèiji in Avstriji za IBM-ovo garancijo in odgovornost za loèeno licencirano kodo samo ustrezni pogoji, ki veljajo za Nemèijo in Avstrijo v IBM-ovih licenènih pogodbah.
+
+Opomba: IBM lahko za nekatere loèeno licencirane kode nudi omejeno podporo. Èe je na voljo takšna podpora, bodo podrobnosti in vsi dodatni pogoji, povezani s takšno podporo, doloèeni v dokumentu s podatki o licenciranju.
+
+Sledijo loèeno licencirane kode:
+npm\node_modules\validate-npm-package-license\node_modules\spdx-expression-parse\node_modules\spdx-exceptions
+x86\Microsoft.VC120.CRT\msvcp120.dll
+x86\Microsoft.VC120.CRT\msvcr120.dll
+x86\Microsoft.VC120.CRT\vccorlib120.dll
+x64\Microsoft.VC120.CRT\msvcp120.dll
+x64\Microsoft.VC120.CRT\msvcr120.dll
+x64\Microsoft.VC120.CRT\vccorlib120.dll
+
+L/N:  L-PIVN-AFJEU8
+D/N:  L-PIVN-AFJEU8
+P/N:  L-PIVN-AFJEU8
+
+

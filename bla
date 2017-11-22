@@ -1,0 +1,6 @@
+curl "https://slack.com/oauth/authorize?client_id=146157619974.146355345751&scope=bot&redirect_uri=https%3A%2F%2Fmultibot-poc.mybluemix.net%2Fslack%2Fmultibot-791tsalles33123456asjdd%2F&state=tsalles&team=T4A4MJ7UN" 
+
+curl "https://slack.com/api/oauth.access?client_id=146157619974.146355345751&client_secret=db1138669733e226c3508a98adc81c2c&code=temp&redirect_uri=prev_url"
+
+
+

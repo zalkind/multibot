@@ -1,0 +1,19 @@
+{
+    "ok": true,
+    "team": {
+        "id": "T4A4MJ7UN",
+        "name": "MultiBotTest",
+        "domain": "multibottest",
+        "email_domain": "",
+        "icon": {
+            "image_34": "https:\/\/a.slack-edge.com\/66f9\/img\/avatars-teams\/ava_0000-34.png",
+            "image_44": "https:\/\/a.slack-edge.com\/0180\/img\/avatars-teams\/ava_0000-44.png",
+            "image_68": "https:\/\/a.slack-edge.com\/66f9\/img\/avatars-teams\/ava_0000-68.png",
+            "image_88": "https:\/\/a.slack-edge.com\/66f9\/img\/avatars-teams\/ava_0000-88.png",
+            "image_102": "https:\/\/a.slack-edge.com\/66f9\/img\/avatars-teams\/ava_0000-102.png",
+            "image_132": "https:\/\/a.slack-edge.com\/66f9\/img\/avatars-teams\/ava_0000-132.png",
+            "image_230": "https:\/\/a.slack-edge.com\/bfaba\/img\/avatars-teams\/ava_0000-230.png",
+            "image_default": true
+        }
+    }
+}

@@ -1,0 +1,39 @@
+INFORMAÇÕES DA LICENÇA
+
+Os Programas listados abaixo são licenciados sob os/ao abrigo dos termos e condições da seguinte Informação sobre a Licença a seguir, além dos termos de licença do Programa acordados anteriormente pelo Cliente e pela IBM. Se o Cliente não tiver acordado anteriormente com os termos de licença em vigor para o Programa, o Contrato de Licença Internacional para Programas Não Garantidos (Z125-5589-05) será aplicável.
+
+Nome do Programa: IBM SDK for Node.js(tm) V4
+Número do Programa: AIMNDJSV400
+
+Código Licenciado Separadamente
+
+Os termos deste parágrafo não aplicam-se até o/ao limite em que sejam considerados inválidos ou não-exeqüíveis/não-exequíveis sob a/ao abrigo da lei que regula esta licença. Cada um dos componentes abaixo listados é considerado "Código Licenciado Separadamente". O Código Licenciado Separadamente IBM é licenciado para o Licenciado sob os/ao abrigo dos termos do(s) contrato(s) de licença/acordo(s) de licenciamento de terceiros aplicável(eis) definidos no(s) arquivo(s)/ficheiro(s) NON_IBM_LICENSE que acompanha(m) o Programa. Não obstante qualquer um dos termos neste Contrato/Acordo ou qualquer outro contrato/acordo que o Licenciado possa ter com a IBM, os termos de tal(is) contrato(s) de licença/acordo(s) de licenciamento de terceiros regulam o uso do Licenciado de todo o Código Licenciado Separadamente a menos que indicado de outra forma abaixo.
+
+Futuras atualizações/actualizações ou correções/correcções do Programa podem conter Código Licenciado Separadamente adicional. Tal Código Licenciado Separadamente adicional e as licenças relacionadas estão listados em outro arquivo/ficheiro NON_IBM_LICENSE que acompanha a atualização/actualização ou correção/correcção do Programa. O Licenciado reconhece que leu e concorda com os contratos de licença/acordos de licenciamento contidos no(s) arquivo(s)/ficheiro(s) NON_IBM_LICENSE. Se o Licenciado não concordar com os termos destes contratos de licença/acordos de licenciamento de terceiros, o Licenciado não pode utilizar o Código Licenciado Separadamente.
+
+Para Programas adquiridos sob o/ao abrigo do Contrato de Licença/Acordo de Licenciamento Internacional do Programa ("IPLA") ou do Contrato de Licença/Acordo de Licenciamento Internacional do Programa para o Programa Não-garantido ("ILAN") e o Licenciado for o licenciado original do Programa, se o Licenciado não concordar com os contratos de licença/acordos de licenciamento de terceiros, o Licenciado pode devolver o Programa de acordo com os termos da, e dentro dos períodos de tempo especificados na seção/secção"Garantia de Reembolso" do Contrato/Acordo IPLA ou ILAN da IBM.
+
+Nota: Não obstante qualquer um dos termos no contrato de licença/acordo de licenciamento de terceiros, o Contrato/Acordo, ou qualquer outro contrato/acordo que o Licenciado possa ter com a IBM:
+(a) a IBM fornece este Código Licenciado Separadamente ao Licenciado SEM GARANTIAS DE NENHUM TIPO;
+(b) A IBM RENUNCIA TODAS E QUAISQUER GARANTIAS E CONDIÇÕES EXPRESSAS E IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO À GARANTIA DE TÍTULO, NÃO-VIOLAÇÃO OU INTERFERÊNCIA E AS GARANTIAS E CONDIÇÕES IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM PROPÓSITO/FIM PARTICULAR, COM RELAÇÃO AO CÓDIGO LICENCIADO SEPARADAMENTE;
+(c) a IBM não é responsável pelo Licenciado e não defenderá, indenizará/indemnizará ou isentará o Licenciado de quaisquer reivindicações decorrentes ou relacionadas ao Código Licenciado Separadamente; e
+(d) a IBM não é responsável por quaisquer danos diretos/directos, indiretos/indirectos, acidentais, especiais, exemplares, punitivos ou consequenciais, incluindo, mas não se limitando a perda de dados, lucros cessantes e perda de lucros, com respeito ao Código Licenciado Separadamente.
+
+Não obstante estas disposição em contrário, nestas exclusões, na Alemanha e na Áustria, a garantia e a responsabilidade da IBM para com o Código Licenciado Separadamente são reguladas apenas pelos respectivos termos aplicáveis para a Alemanha e a Áustria nos contratos de licença/acordos de licenciamento IBM.
+
+Nota: A IBM pode fornecer suporte limitado para determinado Código Licenciado Separadamente. Se tal suporte estiver disponível, os detalhes e quaisquer termos adicionais relacionados com tal suporte serão definidos no documento de Informações sobre Licenciamento.
+
+Os itens a seguir são Código Licenciado Separadamente:
+npm\node_modules\validate-npm-package-license\node_modules\spdx-expression-parse\node_modules\spdx-exceptions
+x86\Microsoft.VC120.CRT\msvcp120.dll
+x86\Microsoft.VC120.CRT\msvcr120.dll
+x86\Microsoft.VC120.CRT\vccorlib120.dll
+x64\Microsoft.VC120.CRT\msvcp120.dll
+x64\Microsoft.VC120.CRT\msvcr120.dll
+x64\Microsoft.VC120.CRT\vccorlib120.dll
+
+L/N:  L-PIVN-AFJEU8
+D/N:  L-PIVN-AFJEU8
+P/N:  L-PIVN-AFJEU8
+
+

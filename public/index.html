@@ -1,0 +1,44 @@
+<html>
+<head>
+  <base href="/">
+  <title>FGTS Contas Inativas - Aplicação de Teste</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta property="og:image" content="conversation.svg" />
+  <meta property="og:title" content="FGTS Contas Inativas" />
+  <meta property="og:description" content="Conta Inativa de FGTS: Aplicação para Teste!" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="view-change-button" class="button" onclick="PayloadPanel.togglePanel(event, this)">
+    <img class="option full" src="img/Chat Button.png">
+    <img class="option not-full" src="img/Code Button.png">
+  </div>
+  <div id="contentParent" class="responsive-columns-wrapper">
+    <div id="chat-column-holder" class="responsive-column content-column">
+      <div class="chat-column">
+        <div id="scrollingChat"></div>
+        <label for="textInput" class="inputOutline">
+          <input id="textInput" class="input responsive-column"
+            placeholder="Qual sua dúvida sobre conta inativa de FGTS?" type="text"
+            onkeydown="ConversationPanel.inputKeyDown(event, this)">
+        </label>
+      </div>
+    </div>
+    <div id="payload-column" class="fixed-column content-column">
+      <div id="payload-initial-message">
+        FGTS Contas Inativas
+      </div>
+      <div id="payload-request" class="payload"></div>
+      <div id="payload-response" class="payload"></div>
+    </div>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/conversation.js"></script>
+  <script src="js/payload.js"></script>
+  <script src="js/global.js"></script>
+</body>
+</html>
